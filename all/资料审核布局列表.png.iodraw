@@ -55,7 +55,7 @@
             <mxRectangle width="120" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-LcN1BmgZzId-M5bpla-48" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
+        <mxCell id="T-LcN1BmgZzId-M5bpla-48" value="所需积分" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
           <mxGeometry x="678" width="120" height="48" as="geometry">
             <mxRectangle width="120" height="48" as="alternateBounds" />
           </mxGeometry>
