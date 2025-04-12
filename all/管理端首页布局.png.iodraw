@@ -11,10 +11,10 @@
           <mxGeometry x="262" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Okc9axYr2URaLAQLObV6-5" value="搜索按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="125" width="78" height="29" as="geometry" />
+          <mxGeometry x="418" y="135.5" width="78" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="Okc9axYr2URaLAQLObV6-6" value="搜索按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="551" y="128" width="78" height="29" as="geometry" />
+        <mxCell id="Okc9axYr2URaLAQLObV6-6" value="重置按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532" y="135.5" width="78" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
