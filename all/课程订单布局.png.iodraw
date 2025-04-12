@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="wQgWmVQtTiUsYWtcg5UB">
-    <mxGraphModel dx="6243" dy="857" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="6519" dy="1008" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="HBCmiG3mcghAMp6vKubF-5" value="&lt;div style=&quot;text-align: start; font-size: 16px;&quot;&gt;重置按钮&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="475" y="166" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HBCmiG3mcghAMp6vKubF-6" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="HBCmiG3mcghAMp6vKubF-6" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=default;fillColor=#A7C942;shadow=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="230" y="244" width="1118" height="336" as="geometry" />
         </mxCell>
         <mxCell id="HBCmiG3mcghAMp6vKubF-7" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontSize=16;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-6">
