@@ -265,7 +265,7 @@
         <mxCell id="bXSErlzHeT9UVjdpN2Ou-57" value="重置按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="581" y="100" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-58" value="新增按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新增按钮&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="157" width="113" height="27" as="geometry" />
         </mxCell>
         <mxCell id="bXSErlzHeT9UVjdpN2Ou-59" value="批量删除按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
