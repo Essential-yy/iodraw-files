@@ -27,12 +27,12 @@
             <mxRectangle width="186" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBCmiG3mcghAMp6vKubF-9" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-7">
+        <mxCell id="HBCmiG3mcghAMp6vKubF-9" value="课程封面" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-7">
           <mxGeometry x="186" width="187" height="74" as="geometry">
             <mxRectangle width="187" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBCmiG3mcghAMp6vKubF-10" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-7">
+        <mxCell id="HBCmiG3mcghAMp6vKubF-10" value="订单价格" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-7">
           <mxGeometry x="373" width="187" height="74" as="geometry">
             <mxRectangle width="187" height="74" as="alternateBounds" />
           </mxGeometry>
