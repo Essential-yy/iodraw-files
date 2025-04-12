@@ -16,7 +16,7 @@
         <mxCell id="Okc9axYr2URaLAQLObV6-6" value="重置按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="532" y="135.5" width="78" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="Okc9axYr2URaLAQLObV6-66" value="Assets" style="childLayout=tableLayout;recursiveResize=0;shadow=1;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="Okc9axYr2URaLAQLObV6-66" value="Assets" style="childLayout=tableLayout;recursiveResize=0;shadow=1;fillColor=#f5f5f5;rounded=0;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="203" y="242" width="1191" height="343" as="geometry" />
         </mxCell>
         <mxCell id="Okc9axYr2URaLAQLObV6-67" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="Okc9axYr2URaLAQLObV6-66">
