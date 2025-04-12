@@ -318,8 +318,11 @@
         <mxCell id="kma0JXa7BoQ4dpNAUsV3-71" value="搜索按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="314" y="50" width="85" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="kma0JXa7BoQ4dpNAUsV3-72" value="重置按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-72" value="编辑按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1747" y="289" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-73" value="编辑按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="299" width="85" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
