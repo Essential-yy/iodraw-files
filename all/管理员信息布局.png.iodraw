@@ -33,12 +33,12 @@
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yx7OmIKyN0H9jgve5tAb-10" value="" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
+        <mxCell id="Yx7OmIKyN0H9jgve5tAb-10" value="账号" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
           <mxGeometry x="93" width="94" height="33" as="geometry">
             <mxRectangle width="94" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yx7OmIKyN0H9jgve5tAb-11" value="" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
+        <mxCell id="Yx7OmIKyN0H9jgve5tAb-11" value="姓名" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
           <mxGeometry x="187" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
