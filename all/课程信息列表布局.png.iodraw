@@ -23,7 +23,7 @@
           <mxGeometry x="54" y="108" width="58" height="24" as="geometry" />
         </mxCell>
         <mxCell id="kma0JXa7BoQ4dpNAUsV3-9" value="批量删除按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="131" y="108" width="103" height="24" as="geometry" />
+          <mxGeometry x="211" y="98" width="133" height="44" as="geometry" />
         </mxCell>
         <mxCell id="kma0JXa7BoQ4dpNAUsV3-10" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="175" width="1735" height="429" as="geometry" />
