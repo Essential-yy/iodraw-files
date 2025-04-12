@@ -30,12 +30,12 @@
             <mxRectangle width="77" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-LcN1BmgZzId-M5bpla-10" value="" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
+        <mxCell id="T-LcN1BmgZzId-M5bpla-10" value="资料名称" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
           <mxGeometry x="77" width="121" height="48" as="geometry">
             <mxRectangle width="121" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-LcN1BmgZzId-M5bpla-11" value="" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
+        <mxCell id="T-LcN1BmgZzId-M5bpla-11" value="资料描述" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
           <mxGeometry x="198" width="120" height="48" as="geometry">
             <mxRectangle width="120" height="48" as="alternateBounds" />
           </mxGeometry>
