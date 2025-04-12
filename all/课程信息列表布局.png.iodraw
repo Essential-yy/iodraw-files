@@ -18,7 +18,7 @@
             <mxRectangle width="72" height="79" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-5" value="" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-5" value="封面图片" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="72" width="152" height="79" as="geometry">
             <mxRectangle width="152" height="79" as="alternateBounds" />
           </mxGeometry>
