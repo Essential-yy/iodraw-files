@@ -40,12 +40,12 @@
             <mxRectangle width="120" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-LcN1BmgZzId-M5bpla-63" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
+        <mxCell id="T-LcN1BmgZzId-M5bpla-63" value="上传用户" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
           <mxGeometry x="318" width="120" height="48" as="geometry">
             <mxRectangle width="120" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-LcN1BmgZzId-M5bpla-58" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
+        <mxCell id="T-LcN1BmgZzId-M5bpla-58" value="上传时间" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
           <mxGeometry x="438" width="120" height="48" as="geometry">
             <mxRectangle width="120" height="48" as="alternateBounds" />
           </mxGeometry>
