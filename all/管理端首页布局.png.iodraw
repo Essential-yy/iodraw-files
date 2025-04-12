@@ -16,9 +16,6 @@
         <mxCell id="Okc9axYr2URaLAQLObV6-6" value="重置按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="532" y="135.5" width="78" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="Okc9axYr2URaLAQLObV6-61" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#C925D1;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.table;" vertex="1" parent="1">
-          <mxGeometry x="267" y="225" width="78" height="78" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
