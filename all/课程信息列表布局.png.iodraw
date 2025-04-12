@@ -7,7 +7,7 @@
         <mxCell id="T-LcN1BmgZzId-M5bpla-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="91" y="55" width="1366" height="638" as="geometry" />
         </mxCell>
-        <mxCell id="T-LcN1BmgZzId-M5bpla-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T-LcN1BmgZzId-M5bpla-2" value="&#xa;&lt;span style=&quot;font-size:12.0pt;line-height:150%;&#xa;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&#xa;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&#xa;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;提供搜索框、根据是否推荐搜索、查询按钮、重置按钮、&lt;/span&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="89" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
