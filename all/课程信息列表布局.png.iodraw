@@ -28,12 +28,12 @@
             <mxRectangle width="153" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-23" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-23" value="课程描述" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="377" width="152" height="48" as="geometry">
             <mxRectangle width="152" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-28" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-28" value="课程类型" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="529" width="152" height="48" as="geometry">
             <mxRectangle width="152" height="48" as="alternateBounds" />
           </mxGeometry>
