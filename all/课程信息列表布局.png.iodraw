@@ -250,8 +250,8 @@
             <mxRectangle width="153" height="74" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-53" value="搜索框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="100" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
