@@ -32,12 +32,12 @@
             <mxRectangle width="160" height="72" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mxn-NzqjPCYe-v_B4EW4-9" value="" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="mxn-NzqjPCYe-v_B4EW4-6">
+        <mxCell id="mxn-NzqjPCYe-v_B4EW4-9" value="所需积分" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="mxn-NzqjPCYe-v_B4EW4-6">
           <mxGeometry x="319" width="158" height="72" as="geometry">
             <mxRectangle width="158" height="72" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mxn-NzqjPCYe-v_B4EW4-36" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="mxn-NzqjPCYe-v_B4EW4-6">
+        <mxCell id="mxn-NzqjPCYe-v_B4EW4-36" value="订单编号" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="mxn-NzqjPCYe-v_B4EW4-6">
           <mxGeometry x="477" width="159" height="72" as="geometry">
             <mxRectangle width="159" height="72" as="alternateBounds" />
           </mxGeometry>
