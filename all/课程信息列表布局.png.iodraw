@@ -330,6 +330,18 @@
         <mxCell id="kma0JXa7BoQ4dpNAUsV3-75" value="删除按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1884" y="372.5" width="85" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-76" value="编辑按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1797" y="455" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-77" value="删除按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1887" y="455" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-78" value="编辑按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1824" y="319" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-79" value="删除按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1914" y="319" width="85" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
