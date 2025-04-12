@@ -42,7 +42,7 @@
             <mxRectangle width="207" height="71" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Okc9axYr2URaLAQLObV6-92" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Okc9axYr2URaLAQLObV6-67">
+        <mxCell id="Okc9axYr2URaLAQLObV6-92" value="操作" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Okc9axYr2URaLAQLObV6-67">
           <mxGeometry x="832" width="207" height="71" as="geometry">
             <mxRectangle width="207" height="71" as="alternateBounds" />
           </mxGeometry>
