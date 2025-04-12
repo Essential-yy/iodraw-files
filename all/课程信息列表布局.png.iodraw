@@ -71,7 +71,7 @@
             <mxRectangle width="156" height="88" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kma0JXa7BoQ4dpNAUsV3-56" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="kma0JXa7BoQ4dpNAUsV3-11">
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-56" value="折扣" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="kma0JXa7BoQ4dpNAUsV3-11">
           <mxGeometry x="1158" width="156" height="88" as="geometry">
             <mxRectangle width="156" height="88" as="alternateBounds" />
           </mxGeometry>
