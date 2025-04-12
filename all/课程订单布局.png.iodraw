@@ -22,7 +22,7 @@
         <mxCell id="HBCmiG3mcghAMp6vKubF-7" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-6">
           <mxGeometry width="1118" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="HBCmiG3mcghAMp6vKubF-8" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-7">
+        <mxCell id="HBCmiG3mcghAMp6vKubF-8" value="课程名称" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-7">
           <mxGeometry width="186" height="74" as="geometry">
             <mxRectangle width="186" height="74" as="alternateBounds" />
           </mxGeometry>
@@ -88,7 +88,7 @@
         <mxCell id="HBCmiG3mcghAMp6vKubF-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-6">
           <mxGeometry y="147" width="1118" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="HBCmiG3mcghAMp6vKubF-16" value="Value 4" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-15">
+        <mxCell id="HBCmiG3mcghAMp6vKubF-16" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="HBCmiG3mcghAMp6vKubF-15">
           <mxGeometry width="186" height="71" as="geometry">
             <mxRectangle width="186" height="71" as="alternateBounds" />
           </mxGeometry>
