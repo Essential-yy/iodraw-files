@@ -22,6 +22,9 @@
         <mxCell id="kma0JXa7BoQ4dpNAUsV3-7" value="新增按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="203" y="212" width="52" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-9" value="批量删除按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="212" width="84" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
