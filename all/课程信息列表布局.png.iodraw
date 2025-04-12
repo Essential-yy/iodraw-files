@@ -13,7 +13,7 @@
         <mxCell id="bXSErlzHeT9UVjdpN2Ou-3" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=default;fillColor=#ffffff;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-2">
           <mxGeometry width="1289" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-4" value="" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-4" value="复选框" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry width="72" height="79" as="geometry">
             <mxRectangle width="72" height="79" as="alternateBounds" />
           </mxGeometry>
@@ -252,9 +252,6 @@
         </mxCell>
         <mxCell id="bXSErlzHeT9UVjdpN2Ou-53" value="搜索框" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="187" y="100" width="120" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="732" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bXSErlzHeT9UVjdpN2Ou-55" value="是否推荐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="322" y="100" width="120" height="34" as="geometry" />
