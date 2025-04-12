@@ -262,8 +262,8 @@
         <mxCell id="bXSErlzHeT9UVjdpN2Ou-56" value="搜索按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="484" y="100" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-57" value="搜索按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="110" width="87" height="30" as="geometry" />
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-57" value="重置按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="100" width="87" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
