@@ -75,7 +75,7 @@
             <mxRectangle width="134" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-LcN1BmgZzId-M5bpla-68" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
+        <mxCell id="T-LcN1BmgZzId-M5bpla-68" value="操作" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
           <mxGeometry x="1291" width="134" height="48" as="geometry">
             <mxRectangle width="134" height="48" as="alternateBounds" />
           </mxGeometry>
@@ -311,6 +311,9 @@
           <mxGeometry x="1291" width="134" height="78" as="geometry">
             <mxRectangle width="134" height="78" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T-LcN1BmgZzId-M5bpla-73" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1426" y="238" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
