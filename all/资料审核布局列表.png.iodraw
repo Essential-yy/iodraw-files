@@ -315,6 +315,12 @@
         <mxCell id="T-LcN1BmgZzId-M5bpla-73" value="审核按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1489" y="243" width="72" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="T-LcN1BmgZzId-M5bpla-75" value="审核按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="324" width="72" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="T-LcN1BmgZzId-M5bpla-76" value="审核按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1509" y="263" width="72" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
