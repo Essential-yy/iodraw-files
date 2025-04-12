@@ -321,7 +321,7 @@
         <mxCell id="kma0JXa7BoQ4dpNAUsV3-72" value="编辑按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1794" y="289" width="85" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="kma0JXa7BoQ4dpNAUsV3-73" value="编辑按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="kma0JXa7BoQ4dpNAUsV3-73" value="删除按钮" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1884" y="289" width="85" height="34" as="geometry" />
         </mxCell>
       </root>
