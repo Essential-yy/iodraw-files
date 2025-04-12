@@ -13,47 +13,47 @@
         <mxCell id="bXSErlzHeT9UVjdpN2Ou-3" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=default;fillColor=#ffffff;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-2">
           <mxGeometry width="1313" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-4" value="复选框" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-4" value="复选框" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry width="73" height="48" as="geometry">
             <mxRectangle width="73" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-5" value="封面图片" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-5" value="封面图片" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="73" width="155" height="48" as="geometry">
             <mxRectangle width="155" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-6" value="课程名称" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-6" value="课程名称" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="228" width="156" height="48" as="geometry">
             <mxRectangle width="156" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-23" value="课程描述" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-23" value="课程描述" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="384" width="155" height="48" as="geometry">
             <mxRectangle width="155" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-28" value="课程类型" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-28" value="课程类型" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="539" width="155" height="48" as="geometry">
             <mxRectangle width="155" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-33" value="所需积分" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-33" value="所需积分" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="694" width="153" height="48" as="geometry">
             <mxRectangle width="153" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-38" value="视频链接" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-38" value="视频链接" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="847" width="156" height="48" as="geometry">
             <mxRectangle width="156" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-43" value="资料链接" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-43" value="资料链接" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="1003" width="154" height="48" as="geometry">
             <mxRectangle width="154" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bXSErlzHeT9UVjdpN2Ou-48" value="操作" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
+        <mxCell id="bXSErlzHeT9UVjdpN2Ou-48" value="操作" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=16;" vertex="1" parent="bXSErlzHeT9UVjdpN2Ou-3">
           <mxGeometry x="1157" width="156" height="48" as="geometry">
             <mxRectangle width="156" height="48" as="alternateBounds" />
           </mxGeometry>
