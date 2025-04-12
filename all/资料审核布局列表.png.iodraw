@@ -50,7 +50,7 @@
             <mxRectangle width="120" height="48" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T-LcN1BmgZzId-M5bpla-53" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
+        <mxCell id="T-LcN1BmgZzId-M5bpla-53" value="资料链接" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="T-LcN1BmgZzId-M5bpla-8">
           <mxGeometry x="558" width="120" height="48" as="geometry">
             <mxRectangle width="120" height="48" as="alternateBounds" />
           </mxGeometry>
