@@ -43,17 +43,17 @@
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yx7OmIKyN0H9jgve5tAb-63" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
+        <mxCell id="Yx7OmIKyN0H9jgve5tAb-63" value="电话" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
           <mxGeometry x="280" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yx7OmIKyN0H9jgve5tAb-58" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
+        <mxCell id="Yx7OmIKyN0H9jgve5tAb-58" value="邮箱" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
           <mxGeometry x="373" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yx7OmIKyN0H9jgve5tAb-53" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
+        <mxCell id="Yx7OmIKyN0H9jgve5tAb-53" value="头像" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
           <mxGeometry x="466" width="93" height="33" as="geometry">
             <mxRectangle width="93" height="33" as="alternateBounds" />
           </mxGeometry>
