@@ -53,7 +53,7 @@
             <mxRectangle width="130" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yx7OmIKyN0H9jgve5tAb-53" value="头像" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
+        <mxCell id="Yx7OmIKyN0H9jgve5tAb-53" value="邮箱" style="connectable=0;recursiveResize=0;strokeColor=default;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="Yx7OmIKyN0H9jgve5tAb-8">
           <mxGeometry x="653" width="131" height="35" as="geometry">
             <mxRectangle width="131" height="35" as="alternateBounds" />
           </mxGeometry>
