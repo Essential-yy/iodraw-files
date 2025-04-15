@@ -10,8 +10,8 @@
         <mxCell id="s-XgYGctY-MzeGj5HAqj-11" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="245" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s-XgYGctY-MzeGj5HAqj-12" value="配置&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;UrlBasedCorsConfigurationSource 对象&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="255" width="120" height="60" as="geometry" />
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-12" value="配置&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;UrlBasedCorsConfigurationSource 对象&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;和&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;CorsConfiguration 对象&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="255" width="293" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
