@@ -1,0 +1,43 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="XCK1J7S01qn-rFPcI9mx">
+    <mxGraphModel dx="1562" dy="857" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-XgYGctY-MzeGj5HAqj-11" target="s-XgYGctY-MzeGj5HAqj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-11" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="245" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-XgYGctY-MzeGj5HAqj-12" target="s-XgYGctY-MzeGj5HAqj-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-12" value="配置&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;UrlBasedCorsConfigurationSource 对象&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;和&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;CorsConfiguration 对象&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="255" width="293" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-XgYGctY-MzeGj5HAqj-14" target="s-XgYGctY-MzeGj5HAqj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-14" value="设置允许的访问源地址" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="255" width="129" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-XgYGctY-MzeGj5HAqj-16" target="s-XgYGctY-MzeGj5HAqj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-16" value="设置允许的请求头" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="835" y="255" width="98.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-XgYGctY-MzeGj5HAqj-18" target="s-XgYGctY-MzeGj5HAqj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-18" value="设置允许的请求头" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="969" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-20" value="注册CORS配置到&lt;div&gt;&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;UrlBasedCorsConfigurationSource&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="255" width="244" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
