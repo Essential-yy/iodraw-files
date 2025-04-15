@@ -28,6 +28,14 @@
         <mxCell id="-9AtC6haGEB7dX4SvVIF-12" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297" y="323" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-9AtC6haGEB7dX4SvVIF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-9AtC6haGEB7dX4SvVIF-13" target="-9AtC6haGEB7dX4SvVIF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9AtC6haGEB7dX4SvVIF-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-9AtC6haGEB7dX4SvVIF-15">
+          <mxGeometry x="0.0109" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-9AtC6haGEB7dX4SvVIF-13" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="323" width="69" height="80" as="geometry" />
         </mxCell>
