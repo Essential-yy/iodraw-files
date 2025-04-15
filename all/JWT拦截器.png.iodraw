@@ -92,13 +92,21 @@
           <mxGeometry x="1150" y="400" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sVjVv-om7AcRSCy6AcwB-36" value="&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;抛出TOKEN_CHECK_ERROR异常&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1467.5" y="290" width="215" height="60" as="geometry" />
+          <mxGeometry x="1452.5" y="290" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sVjVv-om7AcRSCy6AcwB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVjVv-om7AcRSCy6AcwB-38" target="sVjVv-om7AcRSCy6AcwB-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sVjVv-om7AcRSCy6AcwB-52" value="不合法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sVjVv-om7AcRSCy6AcwB-51">
           <mxGeometry x="-0.0668" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sVjVv-om7AcRSCy6AcwB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sVjVv-om7AcRSCy6AcwB-38" target="sVjVv-om7AcRSCy6AcwB-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sVjVv-om7AcRSCy6AcwB-54" value="合法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sVjVv-om7AcRSCy6AcwB-53">
+          <mxGeometry x="-0.0578" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
