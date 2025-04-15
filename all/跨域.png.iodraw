@@ -31,7 +31,7 @@
         <mxCell id="s-XgYGctY-MzeGj5HAqj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s-XgYGctY-MzeGj5HAqj-18" target="s-XgYGctY-MzeGj5HAqj-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s-XgYGctY-MzeGj5HAqj-18" value="设置允许的请方法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="s-XgYGctY-MzeGj5HAqj-18" value="设置允许的请求方法" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="969" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-XgYGctY-MzeGj5HAqj-20" value="注册CORS配置到&lt;div&gt;&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; text-align: start; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;UrlBasedCorsConfigurationSource&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
