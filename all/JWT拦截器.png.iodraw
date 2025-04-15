@@ -85,19 +85,19 @@
         <mxCell id="sVjVv-om7AcRSCy6AcwB-26" value="&lt;br&gt;&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Microsoft YaHei&amp;quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;抛出TOKEN_INVALID_ERROR异常&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="962.5" y="480" width="225" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sVjVv-om7AcRSCy6AcwB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sVjVv-om7AcRSCy6AcwB-29" target="sVjVv-om7AcRSCy6AcwB-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sVjVv-om7AcRSCy6AcwB-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sVjVv-om7AcRSCy6AcwB-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sVjVv-om7AcRSCy6AcwB-29" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-US&quot;&gt;Algorithm.HMAC256加签&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="350" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sVjVv-om7AcRSCy6AcwB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sVjVv-om7AcRSCy6AcwB-32">
+        <mxCell id="sVjVv-om7AcRSCy6AcwB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1810" y="380" as="sourcePoint" />
             <mxPoint x="1900" y="380" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sVjVv-om7AcRSCy6AcwB-32" value="&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA&quot; lang=&quot;EN-US&quot;&gt;jwtVerifier.verify(token)&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;150%;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;验证&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;token&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;line-height:150%;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;的合法性。&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="350" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sVjVv-om7AcRSCy6AcwB-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="sVjVv-om7AcRSCy6AcwB-36">
           <mxGeometry relative="1" as="geometry">
