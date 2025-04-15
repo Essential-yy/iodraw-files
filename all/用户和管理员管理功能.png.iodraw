@@ -82,6 +82,9 @@
         <mxCell id="-9AtC6haGEB7dX4SvVIF-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分页查询&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="763" y="1112" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-9AtC6haGEB7dX4SvVIF-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分页查询&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="763" y="1188" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
