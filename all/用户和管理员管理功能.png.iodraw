@@ -16,6 +16,12 @@
         <mxCell id="-9AtC6haGEB7dX4SvVIF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9AtC6haGEB7dX4SvVIF-6" target="-9AtC6haGEB7dX4SvVIF-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-9AtC6haGEB7dX4SvVIF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9AtC6haGEB7dX4SvVIF-6" target="-9AtC6haGEB7dX4SvVIF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-9AtC6haGEB7dX4SvVIF-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-9AtC6haGEB7dX4SvVIF-6" target="-9AtC6haGEB7dX4SvVIF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-9AtC6haGEB7dX4SvVIF-6" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="634" y="185" width="30" height="60" as="geometry" />
         </mxCell>
