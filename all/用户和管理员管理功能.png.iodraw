@@ -31,7 +31,7 @@
         <mxCell id="-9AtC6haGEB7dX4SvVIF-13" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="323" width="69" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-9AtC6haGEB7dX4SvVIF-17" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="-9AtC6haGEB7dX4SvVIF-17" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="634" y="822" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-9AtC6haGEB7dX4SvVIF-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新增公告&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
