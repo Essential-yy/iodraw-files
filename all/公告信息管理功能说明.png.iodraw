@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-9AtC6haGEB7dX4SvVIF-6" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="614" y="319" width="30" height="60" as="geometry" />
+          <mxGeometry x="600" y="333" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-9AtC6haGEB7dX4SvVIF-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新增公告&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="774" y="167" width="120" height="60" as="geometry" />
@@ -28,8 +28,8 @@
         <mxCell id="-9AtC6haGEB7dX4SvVIF-12" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="297" y="323" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-9AtC6haGEB7dX4SvVIF-13" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="476" y="323" width="80" height="80" as="geometry" />
+        <mxCell id="-9AtC6haGEB7dX4SvVIF-13" value="身份验证" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="323" width="69" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
