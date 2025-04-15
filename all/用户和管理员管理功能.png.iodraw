@@ -10,7 +10,7 @@
         <mxCell id="-9AtC6haGEB7dX4SvVIF-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新增管理员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="763" y="19" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-9AtC6haGEB7dX4SvVIF-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;批量删除公告&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-9AtC6haGEB7dX4SvVIF-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;批量删除&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="763" y="95" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-9AtC6haGEB7dX4SvVIF-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;编辑公告内容&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
